@@ -1,0 +1,3 @@
+name: container-typescript-template
+description: A TypeScript program to deploy a containerized service on AWS
+runtime: nodejs

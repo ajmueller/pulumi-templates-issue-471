@@ -1,0 +1,6 @@
+config:
+  aws:profile: pulumi
+  aws:region: us-west-2
+  container-typescript-template:containerPort: "80"
+  container-typescript-template:cpu: "512"
+  container-typescript-template:memory: "128"
